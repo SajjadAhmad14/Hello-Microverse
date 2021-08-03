@@ -1,10 +1,10 @@
 # Hello Microverse
 
-> This repo contains source code of a Bookstore app built using React+Redux.
+> This repo contains source code of a Practice project `Hello Microverse`.
  
  # About Project
 
-  N/A
+  This project is built during the training for code reviewers at Microverse.
 
 ## Live Demo
 
@@ -18,7 +18,7 @@
 Navigate through the local folder where you want to clone the repository and run<br>
 `git@github.com:SajjadAhmad14/Hello-Microverse.git` to clone the repo to your local folder.<br>
 or with https<br>
-`https://github.com/SajjadAhmad14/Bookstore-React-Redux.git`.<br>
+`https://github.com/SajjadAhmad14/Hello-Microverse.git`.<br>
 **Step 2**<br>
 Run `cd Hello-Microverse`<br>
 **Step 3**<br>
@@ -31,6 +31,7 @@ Open live server from index.html<br>
 - VScode
 - Git
 - GitHub
+- Love
 
 ## Authors
 
